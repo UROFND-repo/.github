@@ -1,5 +1,11 @@
 # URO–FND Clustering Project
 
+[![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+![UMAP](https://img.shields.io/badge/UMAP-3D-7B61FF?style=flat-square)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-Clustering-20C9C3?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Semantics-FF7A68?style=flat-square)
+![MST](https://img.shields.io/badge/MST-Graph-4C8BF5?style=flat-square)
+
 This repository presents an exploratory, data-driven characterization of clinical heterogeneity in functional neurological disorder (FND).
 
 The project combines:
@@ -8,6 +14,7 @@ The project combines:
 - **three-dimensional UMAP** to represent participants within a continuous, nonlinear clinical manifold;
 - **HDBSCAN** to identify density-based profiles without requiring every participant to belong to a cluster; and
 - **natural language processing (NLP) and semantic modelling** to organize clinical features into a structured, interpretable ontology.
+- **minimum spanning tree (MST) analysis** to summarize neighbourhood relationships and visualize the topology of the clinical manifold.
 
 The resulting clusters are treated as **clinical profiles within a continuous symptom space**, rather than as fixed or mutually exclusive disease subtypes. The repository is intended to support transparent reporting, reproducibility, and further methodological development.
 
@@ -17,13 +24,17 @@ This project is under active development. Code, documentation, figures, and cita
 
 ## Citation
 
-If you use or adapt material from this repository, please cite the repository and, once available, the associated publication.
+The manuscript associated with this project is currently under submission to *Neurology*:
 
-For now, cite the repository as:
+> Monteiro, S., Maillard, A., Louis, E., Hentzen, C., Al Chare, I., Baltasis, S., Teng, M., Adrien, V., & Garcin, B. (2026). *Towards a Multidimensional Exploration of Functional Neurological Disorder*. Manuscript submitted to *Neurology*.
 
-> Monteiro, S., et al. (2026). *URO–FND Clustering Project* [Research repository].
+**Authors:** Sara Monteiro¹, Angéline Maillard¹˒², Evelaine Louis¹, Claire Hentzen, Inas Al Chare, Sophie Baltasis, Maelys Teng, Vladimir Adrien³˒⁴, and Béatrice Garcin¹˒².
 
-A DOI, repository URL, and formal citation metadata will be added when available.
+If you use the code, documentation, figures, or other materials from this repository, please also cite the repository:
+
+> Monteiro, S. (2026). *URO–FND Clustering Study Repo* [Research repository].
+
+A DOI, repository URL, and final publication details will be added when available.
 
 ## Reuse
 
@@ -45,4 +56,3 @@ Participant-level clinical data are not automatically covered by this permission
 Unless otherwise stated, the original materials in this repository are licensed under the [Creative Commons Attribution 4.0 International Licence](https://creativecommons.org/licenses/by/4.0/).
 
 Copyright © 2026 Sara Monteiro and contributors.
-
