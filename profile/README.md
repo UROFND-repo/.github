@@ -39,13 +39,9 @@ A DOI, repository URL, and final publication details will be added when availabl
 You may share and adapt the repository materials for any purpose, including commercial use, provided that you:
 
 1. give appropriate credit;
-2. link to the CC BY 4.0 licence;
+2. acknowledge to the CC BY 4.0 licence;
 3. indicate whether changes were made; and
 4. do not imply endorsement by the authors or participating institutions.
-
-A suggested attribution is:
-
-> Adapted from the URO–FND Clustering Project by Sara Monteiro and collaborators, licensed under CC BY 4.0. Changes were made.
 
 Participant-level clinical data are not automatically covered by this permission. Data access, sharing, and secondary use remain subject to the relevant ethical approvals, consent conditions, institutional policies, and data-use agreements.
 
