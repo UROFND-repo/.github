@@ -28,8 +28,6 @@ The manuscript associated with this project is currently under submission to *Ne
 
 > Monteiro, S., Maillard, A., Louis, E., Hentzen, C., Al Chare, I., Baltasis, S., Teng, M., Adrien, V., & Garcin, B. (2026). *Towards a Multidimensional Exploration of Functional Neurological Disorder*. Manuscript submitted to *Neurology*.
 
-**Authors:** Sara Monteiro¹, Angéline Maillard¹˒², Evelaine Louis¹, Claire Hentzen, Inas Al Chare, Sophie Baltasis, Maelys Teng, Vladimir Adrien³˒⁴, and Béatrice Garcin¹˒².
-
 If you use the code, documentation, figures, or other materials from this repository, please also cite the repository together with the article:
 
 > Monteiro, S. (2026). *URO–FND Clustering Study Repo* [Research repository].
