@@ -26,7 +26,7 @@ This project is under active development. Code, documentation, figures, and cita
 
 The manuscript associated with this project is currently under submission to *Neurology*:
 
-> Monteiro, S., Maillard, A., Louis, E., Hentzen, C., Al Chare, I., Baltasis, S., Adrien, V., & Garcin, B. (2026). *Towards a Multidimensional Exploration of Functional Neurological Disorder*. Manuscript submitted to *Neurology*.
+> Monteiro, S., Maillard, A., Louis, E., Hentzen, C., Al Chare, I., Baltassis, S., Adrien, V., & Garcin, B. (2026). *Towards a Multidimensional Exploration of Functional Neurological Disorder*. Manuscript submitted to *Neurology*.
 
 If you use the code, documentation, figures, or other materials from this repository, please also cite the repository together with the article:
 
