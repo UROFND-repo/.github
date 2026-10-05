@@ -1,3 +1,4 @@
+![Publication Embargo](https://img.shields.io/badge/publishing-embargo-orange?style=flat-square)
 # URO–FND Clustering
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
